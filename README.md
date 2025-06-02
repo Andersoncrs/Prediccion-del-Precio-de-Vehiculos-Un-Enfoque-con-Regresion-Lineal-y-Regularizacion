@@ -74,4 +74,14 @@ Durante el desarrollo de este proyecto se profundizó en:
 Este proyecto demuestra cómo un enfoque sistemático de análisis de datos, combinado con técnicas estadísticas y de machine learning, puede generar modelos predictivos robustos y útiles para el mundo real. Los conocimientos aplicados permiten abordar problemas similares en diferentes contextos y abren la puerta a futuras mejoras, como el uso de modelos más avanzados o el análisis de nuevos conjuntos de datos.
 
 ---
+## ✍️ Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a traves de los siguientes canales:
+
+Linkedin: [Anderson Rodríguez](https://www.linkedin.com/in/andersoncrs)
+
+Email: andersoncamilo.rodriguez.s@gmail.com
+
+## 📓 Licencia
+
+Este proyecto está bajo la licencia Apache 2.0. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
